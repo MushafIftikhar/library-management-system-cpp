@@ -1,0 +1,55 @@
+Welcome to the Library Management System!
+Let's add some books to the library.
+Enter the title of the book: Spiderman
+Enter the author of the book: George
+Enter the genre of the book: Adventure,Superhero,Fiction,Fantacy,Action
+Is this book fiction or non-fiction? (Enter 'fiction' or 'non-fiction'): fiction
+Do you want to add another book? (y/n): y
+Enter the title of the book: Dark History
+Enter the author of the book: Mushaf
+Enter the genre of the book: Historic, Mystery, Thriller
+Is this book fiction or non-fiction? (Enter 'fiction' or 'non-fiction'): non-fiction
+Do you want to add another book? (y/n): n
+
+All Books in the Library:
+Fiction Book Details:
+Title: Spiderman
+Author: George
+Genre: Adventure,Superhero,Fiction,Fantacy,Action
+ISBN: 4424
+Borrowed: No
+Rating: 2.41375
+
+Non-Fiction Book Details:
+Title: Dark History
+Author: Mushaf
+Genre: Historic, Mystery, Thriller
+ISBN: 9769
+Borrowed: No
+Rating: 3.63682
+
+Enter the ISBN of the book you want to borrow: 4424
+Book borrowed successfully!
+Enter the ISBN of the book you want to return: 45
+Book not found!
+
+All Books in the Library after borrowing and returning:
+Fiction Book Details:
+Title: Spiderman
+Author: George
+Genre: Adventure,Superhero,Fiction,Fantacy,Action
+ISBN: 4424
+Borrowed: Yes
+Rating: 2.41375
+
+Non-Fiction Book Details:
+Title: Dark History
+Author: Mushaf
+Genre: Historic, Mystery, Thriller
+ISBN: 9769
+Borrowed: No
+Rating: 3.63682
+
+
+
+=== Code Execution Successful ===
